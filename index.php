@@ -18,9 +18,11 @@ C3423F red
         <link type="text/css" rel="stylesheet" href="style2.css">
         <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
         <meta charset="UTF-8">
-        <meta name="description" content="RU Dank Nuff Quiz">
+        <meta name="description" content="Take the ultimate test to find out your dankness levels!">
         <meta name="keywords" content="Dank,memes,quiz,game">
         <meta name="author" content="Andrei Mishael Santos">
+         <meta property="og:title"         content="RU Dank Nuff?" />
+        <meta property="og:image"         content="http://www.andreimishael.me/trivia-game/content/dank.png" />
         <link rel="shortcut icon" type="image/png" href="content/dank.png" />
     <script>
         $(document).ready(function(){
